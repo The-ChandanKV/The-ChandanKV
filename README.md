@@ -16,7 +16,8 @@ I'm a **passionate developer** currently pursuing my **B.E in Information Scienc
 ### 💡 Current Interests  
 - AI-powered applications  
 - Data Science & Machine Learning  
-- Full-Stack Web Development 
+- Full-Stack Web Development
 
+  
 ⚡ Always open to collaborations and new ideas in AI & software development! 🚀  
 
