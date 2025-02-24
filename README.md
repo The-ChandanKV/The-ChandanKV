@@ -11,7 +11,8 @@ I'm a **passionate developer** currently pursuing my **B.E in Information Scienc
 - **AI & ML:** Python-based AI models  
 
 ### 🔥 Projects  
-- **Netflix Clone** (HTML & CSS)   
+- **Netflix Clone** (HTML & CSS)
+- **Rock vs Mine Prediction Model** (Machine learning)
 
 ### 💡 Current Interests  
 - AI-powered applications  
