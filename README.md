@@ -13,6 +13,9 @@ I'm a **passionate developer** currently pursuing my **B.E in Information Scienc
 ### 🔥 Projects  
 - **Netflix Clone** (HTML & CSS)
 - **Rock vs Mine Prediction Model** (Machine learning)
+- **Fake news Prediction Model** (NLP & Machine learning)
+- **Diabetes Prediction Model** (Support Vector Machine Model)
+- **House price Prediction Model** (XGB Regressor Model)
 
 ### 💡 Current Interests  
 - AI-powered applications  
