@@ -1,13 +1,13 @@
 # 👋 Hey there, I'm Chandan K V!
 
 ### 🚀 About Me  
-I'm a **passionate developer** currently pursuing my **B.E in Information Science & Engineering** at **R V Institute of Technology and Management**. With a **9.25 CGPA**, I have a strong foundation in **AI, Data Science, and Software Development**.  
+I'm a **passionate developer** currently pursuing my **B.E in Information Science & Engineering** at **R V Institute of Technology and Management**. With a **9.00 CGPA**, I have a strong foundation in **AI, Data Science, and Software Development**.  
 
 ### 🛠 Tech Stack  
 - **Languages:** C, C++, Python, Java  
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js  
-- **Databases:** MongoDB  
+- **Backend:** Node.js,Flask  
+- **Databases:** SQL,MySQL,MongoDB  
 - **AI & ML:** Python-based AI models  
 
 ### 🔥 Projects  
