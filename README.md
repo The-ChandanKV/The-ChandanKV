@@ -16,6 +16,15 @@ I'm a **passionate developer** currently pursuing my **B.E in Information Scienc
 - **Fake news Prediction Model** (NLP & Machine learning)
 - **Diabetes Prediction Model** (Support Vector Machine Model)
 - **House price Prediction Model** (XGB Regressor Model)
+- **WebSource-Downloader** (Scrapping Model)
+- **AI-Code-Explainer** (AI Model)
+- **PDF-Chatbot**(Web development)
+- **Digital-Twin**(AI Application)
+- **Titanic-survival-Prediction-ML-model** (Machine learning)
+- **Jarvis-Offline-Assitant**(AI Assistant)
+- **AI-Therapist**(AI application)
+- **Emotion-Driven-Music-Composer**(Machine learning)
+- **Movie recommender**(Java springboot website)
 
 ### 💡 Current Interests  
 - AI-powered applications  
